@@ -1,10 +1,3 @@
----
-layout: docs
-title: "Boson Protocol: Docs: Contributing: Grants Program"
-short_title: "Grants Program"
-permalink: /contributing/grants-program/
----
-
 # Build the future of dCommerce. Apply for a Boson Protocol Ecosystem Grant
 
 ![Grants Program](/src/images/grants-program.png)
